@@ -1,7 +1,7 @@
-# fake-bank-app
+# Salt Edge Fake bank Application  
 Sample Bank Application for testing app2app flows  
 
-Project is bases on Flatter SDK.  
+Project is based on Flutter SDK.  
 Minimal Android version is Android 4.1 (API level 16).  
   
 ## Build application
