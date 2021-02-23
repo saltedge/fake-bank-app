@@ -1,4 +1,4 @@
-# Salt Edge Fake bank Application  
+# Salt Edge Fake Bank Application  
 Sample Bank Application for testing app2app flows  
 
 Project is based on Flutter SDK.  
