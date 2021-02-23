@@ -10,3 +10,8 @@ Clone repository, import source code and build application.
 ## Install APK
 Get last stable APK from [releases](https://github.com/saltedge/fake-bank-app/releases/),
 and install it on your Android device.  
+
+## [LICENSE](LICENSE.txt)  
+  
+---
+Copyright © 2021 Salt Edge Inc. www.saltedge.com
