@@ -42,6 +42,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data android:scheme="http" android:host="www.saltedge.com" android:path="/pages/fake_client" />
+                <data android:scheme="http" android:host="bucket.banksalt.com" android:path="/pages/fake_client" />
                 <data android:scheme="https" />
             </intent-filter>
         </activity>
