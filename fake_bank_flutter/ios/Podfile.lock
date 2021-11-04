@@ -1,22 +1,47 @@
 PODS:
   - Flutter (1.0.0)
+  - fluttertoast (0.0.2):
+    - Flutter
+    - Toast
   - integration_test (0.0.1):
+    - Flutter
+  - Toast (4.0.0)
+  - uni_links (0.0.1):
+    - Flutter
+  - url_launcher (0.0.1):
     - Flutter
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
   - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - uni_links (from `.symlinks/plugins/uni_links/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Toast
 
 EXTERNAL SOURCES:
   Flutter:
     :path: Flutter
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
   integration_test:
     :path: ".symlinks/plugins/integration_test/ios"
+  uni_links:
+    :path: ".symlinks/plugins/uni_links/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
 
 SPEC CHECKSUMS:
-  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
-  integration_test: 5ed24a436eb7ec17b6a13046e9bf7ca4a404e59e
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  fluttertoast: 6122fa75143e992b1d3470f61000f591a798cc58
+  integration_test: 7db6d89f336f671dcbc7563ee27a5b08f6f8aee1
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  uni_links: d97da20c7701486ba192624d99bffaaffcfc298a
+  url_launcher: 6fef411d543ceb26efce54b05a0a40bfd74cbbef
 
 PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
 
-COCOAPODS: 1.9.3
+COCOAPODS: 1.11.2
